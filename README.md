@@ -2,7 +2,10 @@
 360° Product Management for Modern Commerce
 
 ## Project Title: "ZenCart: A Seamless E-commerce Journey"
-## Project Overview: This project aims to develop a robust and user-friendly e-commerce platform, leveraging the ZenCart framework. The platform will provide a comprehensive solution for online businesses, offering features such as product catalog management, shopping cart functionality, secure payment gateways, and order tracking.
+
+## Project Overview:
+This project aims to develop a robust and user-friendly e-commerce platform, leveraging the ZenCart framework. The platform will provide a comprehensive solution for online businesses, offering features such as product catalog management, shopping cart functionality, secure payment gateways, and order tracking.
+
 ## Project Steps and Tools:
 ### 1. Requirement Gathering and Analysis
 •	Tools: Trello, Asana, Jira
@@ -65,6 +68,7 @@ o	Perform final testing and adjustments before launching the platform.
 o	Provide ongoing maintenance and support to address issues and keep the platform up-to-date.
 o	Monitor the platform's performance and usage to identify areas for improvement.
 o	Implement security measures to protect against vulnerabilities and data breaches.
+
 ## Tech Stack:
 •	Programming Language: PHP
 •	Framework: ZenCart
