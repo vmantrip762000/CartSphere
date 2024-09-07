@@ -77,3 +77,5 @@ o	Implement security measures to protect against vulnerabilities and data breach
 •	Operating System: Linux (e.g., Ubuntu)
 •	Version Control: Git
 
+I updated readme
+
